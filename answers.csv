@@ -1,0 +1,115 @@
+primary,sub,Answer
+book,hotel,That's great! Let's find the most suitable hotel for you.
+book,car,What an excellent choice! Let's book a car for you!
+book,flight,Amazing! Let's get you to your destination and book the best deal for you!
+book,package,Wonderful! Let's create your dream vacation.
+change,none,Sure thing! Changing you booking right away!
+cancel,none,Sorry to hear that! Few more steps and we're canceling the booking.
+exit,none,Thank you for choosing our services. Have a great day!
+book,hotel,That's fantastic! Let's locate the ideal hotel for you.
+book,car,What a fantastic decision! Let's reserve a vehicle for you!
+book,flight,Amazing! Let's get you where you need to go and arrange the greatest bargain for you!
+book,package,Wonderful! Let's design the trip of your dreams.
+change,none,Of course! Immediately alter your reservation!
+cancel,none,I am sorry to hear that. We're canceling the reservation after a few more steps.
+exit,none,We appreciate you choosing our services. Have a wonderful day!
+book,hotel,"That's fantastic! Together, find the perfect hotel."
+book,car,"Excellent choice, I must say! Let's book a car for you!"
+book,flight,Amazing! We'll get you where you need to go and negotiate the best deal for you.
+book,package,Wonderful! Let's organize the vacation of your dreams.
+change,none,No issue! Change your reservation right immediately!
+cancel,none,We regret to learn that. We'll cancel the reservation in only a few steps.
+exit,none,We are grateful that you choose to utilize our services. wonderful day to you!
+cancel,none,"I'm sorry to learn that! After a few more steps, the reservation will be canceled."
+cancel,none,"We regret finding out that. In only a few steps, the reservation will be canceled."
+cancel,none,I regret to hear that! A couple additional actions will result in the cancellation of the reservation.
+cancel,none,We're sorry to have learned that. The reservation will be canceled in just a few simple steps.
+book,hotel,I love that! Let's look for the best hotel for you.
+book,hotel,That's awesome! Let's find you the perfect accommodation.
+book,hotel,That's awesome! Find the ideal hotel with me.
+book,hotel,It is awesome! Let's find you the ideal accommodation.
+book,hotel,That's fantastic! Let's look for the ideal lodging for you.
+book,hotel,That's fantastic! Join me in finding the appropriate accommodation.
+book,hotel,It's fantastic! Let's search for your suitable lodging.
+book,hotel,That's awesome! Let's find you the perfect place to stay.
+book,hotel,That's awesome! Help me discover the right accommodations by working with me.
+book,hotel,It's amazing! Allow us to locate you suitable accomodation.
+book,hotel,That's fantastic! Allow us to look for the ideal accommodations for you.
+book,hotel,That's fantastic! Please help me find acceptable housing.
+book,hotel,It's incredible! Let us find you a suitable place to stay.
+book,hotel,That's awesome! Let us find the best lodgings for you.
+book,hotel,That's awesome! Please assist me in locating suitable homes.
+book,car,What a wise decision! We'll reserve a car for you!
+book,car,What an excellent choice! Let's make a car reservation for you!
+book,car,"Great decision, I must say! We'll reserve a car for you!"
+book,car,What a fantastic decision! Let's book a car for you!
+book,car,What a brilliant decision! Let us reserve a car for you!
+book,car,"Great decision, I must say! Let's book a car for you!"
+book,car,What a brilliant decision! Let's book a car for you!
+book,car,What a wonderful choice! Let us to book a car for you!
+book,car,"This, I must say, is an amazing alternative! Let's book a car for you!"
+book,car,What a wise decision! A vehicle will be reserved for you!
+book,car,What a wise decision! Ask for a car from us right away!
+book,car,"I must say, this is a fantastic decision! A vehicle will be reserved for you!"
+book,flight,Let's get a plane ticket!
+book,flight,Now is the time to book your flight!
+book,flight,Let's hop on a plane!
+book,flight,It's time to book your flight!
+book,flight,Let's acquire an airline ticket!
+book,flight,Now is the time to book your flight!
+book,flight,Let's book a flight!
+book,flight,Now is the time to make your flight reservation!
+book,flight,Let's buy a flight ticket!
+book,flight,You should schedule your flight right now!
+book,flight,Book a flight now!
+book,flight,Make your flight reservation right away!
+book,package,Let's plan the getaway of your dreams.
+book,package,Wonderful! Let's plan the vacation of your desires.
+book,package,Amazing! Let's put together the getaway of your dreams.
+book,package,Let's design the trip of your dreams.
+book,package,Wonderful! Design the vacation of your dreams with me.
+book,package,Amazing! Let's plan the trip of your dreams.
+book,package,Let's plan your ideal holiday.
+book,package,Wonderful! Let's plan the vacation of your dreams.
+book,package,Amazing! Let's plan the vacation of a lifetime.
+book,package,Let's plan your ideal holiday.
+book,package,Wonderful! Let's make your fantasy vacation a reality.
+book,package,Amazing! Let's organize a once-in-a-lifetime getaway.
+cancel,none,We're sorry to hear that! We'll cancel the reservation in a few steps.
+cancel,none,"That breaks my heart. After a couple more steps, we'll cancel the reservation."
+cancel,none,We're sorry to hear that. We'll cancel the reservation in a matter of minutes.
+cancel,none,It breaks my heart! The reservation will be canceled after a few more steps.
+cancel,none,We're sorry we found out. The reservation will be canceled in only a few steps.
+cancel,none,I'm sorry to hear that! A handful of extra acts will result in the reservation being canceled.
+cancel,none,"We're sorry to have found out. With just a few simple steps, you may cancel your reservation."
+cancel,none,"We regret to learn that. After a few steps, we'll cancel the reservation."
+cancel,none,It makes me so sad. We'll revoke the reservation once we've completed a few more procedures.
+cancel,none,"Our condolences for that. In a few minutes, the reservation will be canceled."
+cancel,none,It makes my heart ache! A couple additional actions will result in the cancellation of the reservation.
+cancel,none,We regret learning this. It won't take long to cancel the reservation.
+cancel,none,That makes me sad to hear! The reservation will be canceled if there are too many additional acts.
+cancel,none,We regret learning this information. You may cancel your reservation in a few easy steps.
+change,none,"Yes, please! Change your reservation right immediately!"
+change,none,Of course! Change your reservation right immediately!
+change,none,No problem! Change your reservation as soon as possible!
+change,none,Sure thing! I'm changing your reservation right now!
+change,none,Of course! Change your reservation as soon as possible!
+change,none,Not a problem! Change your reservation as soon as possible!
+change,none,"Yes, please! I'm immediately changing your reservation!"
+change,none,Without a doubt! Modify your booking as soon as possible!
+change,none,It is not an issue! Modify your booking as soon as possible!
+change,none,"Yes, please! Your reservation is being changed right now!"
+change,none,Of course! Make a change to your reservation right away!
+change,none,It's no trouble! Make a change to your reservation right away!
+exit,none,We appreciate you selecting our offerings. Enjoy your day!
+exit,none,We value your decision to use our services. Enjoy your amazing day!
+exit,none,We appreciate you choosing to use our services. Happy day to you!
+exit,none,Thank you for considering our offerings. Have a wonderful day!
+exit,none,We appreciate your decision to use our services. Have a fantastic day!
+exit,none,We appreciate your decision to use our services. Have a good day!
+exit,none,Thank you for taking the time to examine our products. Have a fantastic day!
+exit,none,We are grateful for your decision to utilize our services. Have a good day!
+exit,none,We are grateful for your decision to utilize our services. Have a good day!
+exit,none,Thank you for taking the time to consider our offerings. Have a fantastic day!
+exit,none,We are grateful for your decision to use our services. Have a wonderful day!
+exit,none,We are grateful for your decision to use our services. Have a wonderful day!

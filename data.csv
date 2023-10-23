@@ -1,0 +1,528 @@
+text,primary,sub
+Hi! I am happy to book hotel for next week!,book,hotel
+I'm so happy to book hotel room!,book,hotel
+I want to book a hotel room,book,hotel
+Booking a hotel room sounds good to me,book,hotel
+Hotel booking is what I need,book,hotel
+It would be great if you could book a hotel room for me,book,hotel
+Booking a hotel room is something I would like to do,book,hotel
+The hotel room I want to book is available,book,hotel
+A hotel room is what I'm looking for,book,hotel
+Hotel booking is on my mind,book,hotel
+It would be helpful if you could book me a hotel room,book,hotel
+Booking a hotel room is important to me,book,hotel
+I need a rental car,book,car
+Renting a car is what I need,book,car
+I need a rental car,book,car
+Rental cars are needed for me,book,car
+It's time to rent a car,book,car
+Car rental is necessary for me,book,car
+My car needs to be rented,book,car
+The rental car I need is urgent,book,car
+There is a need for a rental car for me,book,car
+Car rental is needed,book,car
+A rental car would be useful to me,book,car
+I want to book a flight,book,flight
+Booking a flight is what I want to do,book,flight
+I want to book a flight,book,flight
+Flight booking is what I need,book,flight
+Booking a flight sounds good to me,book,flight
+It would be great if you could book a flight for me,book,flight
+Flying is something I'd like to do,book,flight
+Booking a flight is on my mind,book,flight
+Flight booking is something I'm interested in,book,flight
+The flight I want to book is available,book,flight
+Vacation packages are what I'm looking for,book,package
+Looking for a vacation package,book,package
+My goal is to find a vacation package that suits my needs,book,package
+Packages for vacation are what I am looking for,book,package
+A vacation package would be ideal for me,book,package
+Interested in vacation packages,book,package
+The package I am looking for is a vacation,book,package
+Packages for vacations are what I'm looking for,book,package
+A vacation package is what I'm looking for,book,package
+Interested in a vacation package,book,package
+I am looking for vacation package,book,package
+Can you help me find a good deal on a hotel room?,book,hotel
+Are you able to help me find a good deal on a hotel room?,book,hotel
+Would you be able to assist me in finding a good hotel deal?,book,hotel
+Where can I find a good hotel room deal?,book,hotel
+Are there any good hotel deals you can suggest?,book,hotel
+Is there a good deal on a hotel room that you can help me find?,book,hotel
+What are your recommendations for a good hotel room deal?,book,hotel
+Are you able to find me a good hotel room deal?,book,hotel
+I need to change the dates of the vacation.,change,date
+Can I change my reservation to a later date?,change,date
+I need to reschedule my booking for next week.,change,date
+Is it possible to move my appointment to a different date?,change,date
+Can I modify the booking dates?,change,date
+I'd like to push back my reservation by a few days.,change,date
+I want to change the check-in date for my hotel reservation.,change,date
+Can I move my booking to a different day?,change,date
+I need to reschedule my appointment for a different time.,change,date
+Is it possible to push back my reservation by a week?,change,date
+Can I modify the departure date for my flight?,change,date
+I need to change the pickup location for my rental car.,change,location
+Can I switch the event venue to a different location?,change,location
+Is it possible to transfer my hotel reservation to a different location?,change,location
+Can I modify the drop-off address for my rental?,change,location
+I'd like to change the location for my dinner reservation.,change,location
+Can I change the location of my reservation?,change,location
+I need to switch the venue for my booking.,change,location
+Is it possible to transfer my reservation to a different location?,change,location
+Can I modify the pickup address for my rental car?,change,location
+I'd like to change the destination for my flight reservation.,change,location
+Can I modify the event location for my booking?,change,location
+Hello! It's great to chat with you. I'm interested in reserving a rental car.,book,car
+Hi there! Nice to talk to you. I'm looking to book a car rental.,book,car
+Hey! It's great to chat with you. I want to reserve a rental car.,book,car
+Hey! It's great to chat with you. I want to reserve a rental car.,book,car
+Hi! Nice to speak with you. I'm hoping to rent a car and would like to make a reservation.,book,car
+Hey there! It's great to connect with you. I'm inquiring about reserving a rental car.,book,car
+I'm so excited to be planning a road trip! Can you help me reserve a rental car?,book,car
+Thank you for your help! I need to rent a car for my upcoming trip and was wondering if you could assist me with a reservation.,book,car
+"I have a business trip coming up and need to rent a car, but I'm not sure where to start. Can you help me make a reservation?",book,car
+Hey there! I was thinking of renting a car for the weekend. Any chance you could help me book one?,book,car
+Greetings! I am interested in making a car rental reservation. Could you please provide me with more information on the process?,book,car
+I want to book a hotel room in Paris for next week.,book,hotel
+Can you help me find a car rental for my upcoming trip?,book,car
+I need to book a flight from New York to London next month.,book,flight
+What are my options for booking a vacation package to Hawaii?,book,package
+I'm interested in reserving a room at a hotel near the beach. ,book,hotel
+I want to rent a car for the weekend.,book,car
+Can you help me find a flight to Tokyo in July?,book,flight
+I'm looking for a vacation package that includes flights and hotels. ,book,package
+I need to book a hotel room for a conference in Las Vegas.,book,hotel
+Can you help me find a car rental for my business trip next week?,book,car
+I'm planning a trip to Europe and I need to book a flight.,book,flight
+"I'm interested in booking a package that includes flights, hotels, and tours. ",book,package
+I want to book a hotel room with a view of the Eiffel Tower. ,book,hotel
+I need to rent a car for a family vacation. ,book,car
+Can you help me find a flight to Australia in September?,book,flight
+I'm interested in a vacation package that includes a cruise.,book,package
+I want to book a hotel room with a pool and a gym. ,book,hotel
+I need to rent a car for a road trip across the country.,book,car
+Can you help me find a flight to South America for my honeymoon?,book,flight
+'m looking for a vacation package that includes spa treatments and relaxation.,book,package
+Can you help me book a hotel for my trip?,book,hotel
+I need a hotel room for two nights.,book,hotel
+What's the best hotel in town?,book,hotel
+Can you recommend a good hotel near the beach?,book,hotel
+I want to book a luxury hotel for my honeymoon.,book,hotel
+Do you have any deals on hotels for the weekend?,book,hotel
+I need to change the location of my hotel booking.,book,hotel
+I need to change the dates of my hotel booking.,book,hotel
+Can you help me rent a car for my trip?,book,Car
+I need a car with GPS and automatic transmission.,book,Car
+What's the best car rental company in town?,book,Car
+Can you recommend a good car for a family of five?,book,Car
+I want to rent a convertible for my road trip.,book,Car
+Do you have any deals on car rentals for the weekend?,book,Car
+I need to change the pickup location of my car rental.,change,location
+I need to change the dates of my car rental.,change,date
+Can you help me book a flight for my trip?,book,Flight
+I need a one-way ticket to New York.,book,Flight
+What's the best airline for international flights?,book,Flight
+Can you recommend a good flight for a budget traveler?,book,Flight
+I want to book a first-class flight for my business trip.,book,Flight
+Do you have any deals on flights to Hawaii?,book,Flight
+I need to change the destination of my flight booking.,book,Flight
+I need to change the dates of my flight booking.,book,Flight
+Can you help me book a travel package?,book,Package
+"I need a package that includes a hotel, car rental, and flight.",book,Package
+What's the best travel package for a family vacation?,book,Package
+Can you recommend a good travel package for a romantic getaway?,book,Package
+I want to book a luxury travel package for my anniversary.,book,Package
+Do you have any deals on travel packages to Europe?,book,Package
+I need to change the location of my travel package booking.,book,Package
+I need to change the dates of my travel package booking.,book,Package
+I need to update my hotel booking location.,change,location
+Can I change the location of my car rental booking?,change,location
+I want to move my flight booking to a different destination.,change,location
+My package vacation booking needs a new location.,change,location
+I need to reschedule my hotel booking dates.,change,date
+Can I change the dates of my car rental booking?,change,date
+I want to move my flight booking to a different date.,change,date
+My package vacation booking needs new dates.,change,date
+I need to change the location of my booking,change,location
+I want to switch the hotel location,change,location
+Can I modify the location of my reservation?,change,location
+I made a mistake in the hotel location and need to change it,change,location
+I need to update the location of my hotel booking,change,location
+I want to change the city for my hotel reservation,change,location
+Can I change the hotel location after booking?,change,location
+I need to relocate my car rental booking,change,location
+Can I change the pickup location of my rental car?,change,location
+I want to modify the location for my flight reservation,change,location
+I need to change the dates of my booking,change,date
+I want to modify the reservation dates,change,date
+Can I change the start and end dates of my hotel booking?,change,date
+I need to reschedule my car rental booking,change,date
+Can I change the pickup and drop-off dates for my rental car?,change,date
+I want to change the departure and arrival dates for my flight reservation,change,date
+I made a mistake in the dates and need to change them,change,date
+I need to adjust the dates of my package booking,change,date
+Can I modify the start and end dates for my vacation package?,change,date
+I want to cancel my booking for next week.,cancel,none
+I need to cancel my hotel reservation.,cancel,none
+Can you help me cancel my flight booking?,cancel,none
+I changed my plans and need to cancel my car rental.,cancel,none
+I'm no longer able to make the trip and need to cancel my booking.,cancel,none
+How do I cancel a booking I made on your website?,cancel,none
+"I accidentally booked the wrong dates, can I cancel and rebook?",cancel,none
+I need to cancel my reservation due to unforeseen circumstances.,cancel,none
+Is it possible to cancel my booking and get a refund?,cancel,none
+I want to cancel my package holiday due to personal reasons.,cancel,none
+Please assist me in canceling my booking as soon as possible.,cancel,none
+I need to cancel my booking for a different hotel.,cancel,none
+"I made a mistake and need to cancel my booking, can you help?",cancel,none
+I need to cancel my booking due to a family emergency.,cancel,none
+I can no longer afford to travel and need to cancel my booking.,cancel,none
+I regret to inform you that I need to cancel my reservation for next week due to unforeseen circumstances.,cancel,none
+"Unfortunately, I won't be able to make it to my planned trip, so I need to cancel my hotel reservation.",cancel,none
+I've had a sudden change of plans and I need to cancel my car rental booking for next month.,cancel,none
+I would like to cancel my flight reservation as my schedule has changed unexpectedly.,cancel,none
+"Due to a medical emergency, I need to cancel my hotel booking for next week.",cancel,none
+"My plans have been canceled, so I need to cancel my rental car reservation for next month.",cancel,none
+I'm sorry to say that I need to cancel my flight reservation due to unforeseen circumstances.,cancel,none
+"Unfortunately, I need to cancel my hotel reservation as my trip has been postponed.",cancel,none
+I need to cancel my car rental reservation as I've found a better deal elsewhere.,cancel,none
+My travel plans have changed and I need to cancel my flight reservation.,cancel,none
+"I'm so disappointed, I need to cancel my hotel booking for next week.",cancel,none
+"Unfortunately, I have to cancel my flight reservation.",cancel,none
+"I'm really upset about this, but I need to cancel my car rental.",cancel,none
+"It's a shame, but I have to cancel my vacation package due to unexpected circumstances.",cancel,none
+"I feel terrible about this, but I need to cancel my hotel reservation.",cancel,none
+"I'm really unhappy about this, but I need to cancel my rental car booking.",cancel,none
+"It's frustrating, but I need to cancel my flight.",cancel,none
+"I'm bummed out, but I have to cancel my vacation plans.",cancel,none
+"I'm really sad about this, but I need to cancel my hotel reservation.",cancel,none
+"Unfortunately, I have to cancel my car rental reservation.",cancel,none
+"Unfortunately, I need to cancel my booking. I'm really disappointed.",cancel,none
+"I'm sorry, but I have to cancel my reservation. Can you please help me with that?",cancel,none
+"I can't make it to my trip anymore, so I need to cancel my booking. I hope it's not too much trouble.",cancel,none
+I've had a change of plans and won't be able to make it to the event. Can you please cancel my booking?,cancel,none
+"Canceling my booking is a real bummer, but I have no choice. Can you please assist me with that?",cancel,none
+"I'm not happy to do this, but I have to cancel my booking. Can you please help me with that?",cancel,none
+I need to cancel my reservation due to unforeseen circumstances. Can you please assist me with that?,cancel,none
+"Canceling my booking is the last thing I wanted to do, but unfortunately it's necessary. Can you please guide me through the process?",cancel,none
+I regret to inform you that I need to cancel my booking.,cancel,none
+"Unfortunately, I won't be able to make it to my reservation. Can I cancel it?",cancel,none
+I'm feeling disappointed that I have to cancel my booking.,cancel,none
+"Due to unforeseen circumstances, I have to cancel my reservation.",cancel,none
+"I'm sorry for the inconvenience, but I need to cancel my booking.",cancel,none
+I'm feeling upset about having to cancel my booking.,cancel,none
+Is it possible to cancel my reservation? I'm having some issues with my travel plans.,cancel,none
+"Unfortunately, I won't be able to stay at the hotel as planned. Can I cancel my booking?",cancel,none
+I'm feeling frustrated that I have to cancel my booking.,cancel,none
+I need to cancel my booking due to some personal matters.,cancel,none
+I'm disappointed that I won't be able to make it to my booking. Can I cancel it?,cancel,none
+I'm feeling sad that I have to cancel my booking.,cancel,none
+Can I please cancel my reservation? I'm having some financial difficulties.,cancel,none
+I'm feeling stressed about my travel plans and need to cancel my booking.,cancel,none
+I have to cancel my booking due to a family emergency.,cancel,none
+"I'm so disappointed with my hotel, I need to change it to something better.",change,location
+"My friend recommended a better hotel, can you help me change my booking?",change,hotel
+I'm really excited to change my hotel to a more luxurious one!,change,hotel
+"I'm feeling frustrated with my current hotel, can you help me change it to something closer to the city center?",change,hotel
+I'm feeling so relieved that I can change my hotel booking to a different date!,change,hotel
+"I'm so annoyed with my rental car, it's too small for my family. Can I change to a bigger car?",change,hotel
+I'm so happy that I can change my rental car to a convertible for my road trip!,change,hotel
+"I'm feeling frustrated that my rental car isn't available, can you help me change the booking to a different car?",change,hotel
+"I'm feeling worried about the safety of my rental car, can you help me change to a newer model?",change,hotel
+I'm feeling excited to change my rental car to an electric one to be more environmentally friendly!,change,hotel
+"I'm so upset that my flight was cancelled, can you help me change to a different flight?",change,hotel
+I'm so relieved that I can change my flight booking to a different date!,change,hotel
+"I'm feeling frustrated with my flight schedule, can you help me change my booking to a different airline?",change,hotel
+"I'm feeling anxious about my layover time, can you help me change my flight to a non-stop one?",change,hotel
+"I'm feeling excited to upgrade my flight to first class, can you help me change my booking?",change,hotel
+I'm feeling disappointed that I have to cancel my hotel booking due to unforeseen circumstances.,cancel,none
+I'm so sad that I have to cancel my rental car booking for my road trip.,cancel,none
+I'm feeling frustrated that I have to cancel my flight due to work obligations.,cancel,none
+I'm feeling relieved that I can cancel my booking and get a full refund.,cancel,none
+"I'm feeling guilty that I have to cancel my booking, but I can't avoid it due to personal reasons.",cancel,none
+I want to exit the program,exit,none
+Please close the program,exit,none
+Can you quit the program?,exit,none
+"I'm done with this, exit the program",exit,none
+I want to quit the program.,exit,none
+Exit.,exit,none
+Close the program.,exit,none
+Bye.,exit,none
+End the chat.,exit,none
+"Sorry, but I need to go now.",exit,none
+"Unfortunately, I have to leave.",exit,none
+"I'm sorry, but I need to go.",exit,none
+"I apologize, but I have to leave.",exit,none
+I regret to inform you that I must leave.,exit,none
+"Thank you for your help, but I must go now.",exit,none
+"It's been a pleasure chatting, but I must go.",exit,none
+"I appreciate your assistance, but I need to leave.",exit,none
+"Thank you for your time, but I have to go now.",exit,none
+"Your help has been greatly appreciated, but I need to go.",exit,none
+Enough. Exit.,exit,none
+"Stop wasting my time, I'm leaving.",exit,none
+"I don't have time for this, exit.",exit,none
+Quit the program now.,exit,none
+"Close the chat, I'm done.",exit,none
+I think I'm done here. How do I exit the program?,exit,none
+I've had enough for now. Can I close the program?,exit,none
+This isn't what I was looking for. How do I leave?,exit,none
+I'm finished. How do I get out of the program?,exit,none
+I'm really frustrated with this. How do I exit the program?,exit,none
+Can't you help me with anything? I just want to close the program.,exit,none
+This is a waste of time. How do I leave the program?,exit,none
+I don't want to do this anymore. How do I exit the program?,exit,none
+I need a break. How do I close the program?,exit,none
+I've changed my mind. How do I get out of the program?,exit,none
+I think I'm done for now. Can I exit the program?,exit,none
+Is there a way to exit this chatbot?,exit,none
+I need to leave now. How can I exit?,exit,none
+Thank you for your help. Can I exit now?,exit,none
+"I changed my mind, can I exit the program?",exit,none
+How do I stop this chatbot?,exit,none
+I don't want to continue anymore. Can I exit?,exit,none
+"Sorry, I need to go. How do I exit?",exit,none
+Can I exit this chatbot and come back later?,exit,none
+I'm finished with this chatbot. Can I exit now?,exit,none
+I want to book a hotel for next week.,book,hotel
+Can you help me find a hotel for my upcoming trip?,book,hotel
+I need to reserve a room for two nights.,book,hotel
+I'm looking for a hotel near the beach.,book,hotel
+What are my options for booking a hotel in this area?,book,hotel
+How do I go about booking a hotel through your service?,book,hotel
+Do you have any available rooms at your hotel for next weekend?,book,hotel
+I'm interested in booking a suite for my honeymoon.,book,hotel
+Could you recommend a good hotel in the downtown area?,book,hotel
+I want to book a hotel that has a pool and a gym.,book,hotel
+I would love to book a hotel room for my upcoming vacation!,book,hotel
+"This hotel looks amazing, I want to book it right now!",book,hotel
+"I'm so excited to book a room at this hotel, the reviews are incredible!",book,hotel
+"Booking a hotel has never been easier, this chatbot is amazing!",book,hotel
+"I'm really looking forward to booking a room at this hotel, the location is perfect!",book,hotel
+"This chatbot is making it so easy for me to book a hotel, thank you!",book,hotel
+"I can't wait to stay at this hotel, I just booked my room through this chatbot and it was a breeze!",book,hotel
+"Booking a hotel can be so stressful, but this chatbot has made it so much easier for me.",book,hotel
+"I had a great experience booking a room through this chatbot, highly recommend!",book,hotel
+"I'm so glad I found this chatbot, booking a hotel has never been so simple.",book,hotel
+"I'm really frustrated trying to book a hotel through this chatbot, it's not working properly.",book,hotel
+"This chatbot is making it so difficult for me to book a hotel, I might as well just do it myself.",book,hotel
+"I'm not happy with the hotels that are being suggested by this chatbot, I expected better options.",book,hotel
+"I had a terrible experience trying to book a room through this chatbot, it was a waste of time.",book,hotel
+"This chatbot is not user-friendly when it comes to booking a hotel, it's very confusing.",book,hotel
+"I don't trust this chatbot to book a hotel for me, I would rather do it myself.",book,hotel
+I'm really disappointed with the customer service I received when trying to book a hotel through this chatbot.,book,hotel
+"I'm having a hard time finding a hotel that meets my needs through this chatbot, it's not very helpful.",book,hotel
+"I regret trying to book a hotel through this chatbot, it's been nothing but a headache.",book,hotel
+"This chatbot has made the booking process much more complicated than it needs to be, not impressed.",book,hotel
+I'm excited to book a hotel next week!,book,hotel
+"Hello there, I'd like to reserve a hotel for next week.",book,hotel
+I'm looking to book a hotel for the upcoming week and I'm feeling pretty good about it!,book,hotel
+"Hi, I'm feeling happy and want to book a hotel for next week.",book,hotel
+"Hey, I'm in a good mood and want to make a hotel reservation for next week!",book,hotel
+Good day! I'm eager to book a hotel for next week and I'm feeling positive about it.,book,hotel
+"Hi, I'm feeling great and would like to book a hotel for next week.",book,hotel
+Greetings! I'm happy to be booking a hotel for next week.,book,hotel
+"Hey there, I'm feeling good and want to book a hotel for next week.",book,hotel
+"Hi, I'm in a good mood and I want to reserve a hotel for next week.",book,hotel
+Can you help me book a hotel for my upcoming trip?,book,hotel
+I'm looking to reserve a room at a hotel for my vacation.,book,hotel
+I want to book a hotel in the city center.,book,hotel
+I need to find a place to stay for my business trip next week.,book,hotel
+Can you assist me with booking a hotel for my anniversary?,book,hotel
+I'm planning a weekend getaway and need to book a hotel room.,book,hotel
+I'd like to make a hotel reservation for two people.,book,hotel
+Can you recommend a good hotel near the airport?,book,hotel
+I'm interested in booking a boutique hotel for my next vacation.,book,hotel
+I need to book a hotel room for a conference I'm attending.,book,hotel
+"Good afternoon, I was wondering if I could book a hotel room for next week?",book,hotel
+"Excuse me, would it be possible to book a hotel for the weekend?",book,hotel
+"Hello, I was hoping to book a hotel room for my upcoming trip, if that's alright?",book,hotel
+"Pardon me, could you please assist me in booking a hotel room for next month?",book,hotel
+"Good day, I would like to inquire about booking a hotel room for my trip next month, if that's not too much trouble.",book,hotel
+"Hi there, I was wondering if you could help me book a hotel for my upcoming vacation?",book,hotel
+"Good morning, I'm interested in booking a hotel room for my upcoming trip, would that be possible?",book,hotel
+"Excuse me, I was hoping to book a hotel room for next week, if that's okay with you?",book,hotel
+"Hello, would it be possible to book a hotel room for my upcoming vacation, please?",book,hotel
+"Good afternoon, I'm interested in booking a hotel room for my trip next month, could you assist me with that?",book,hotel
+Hi! Booking a hotel for next week makes me happy.,book,hotel
+I'm really excited to reserve a hotel room!,book,hotel
+I wish to reserve a hotel room.,book,hotel
+It sounds excellent to me to reserve a hotel room.,book,hotel
+Booking a hotel is what I need.,book,hotel
+"If you could reserve a hotel room for me, that would be fantastic.",book,hotel
+Something I'd like to do is reserve a hotel room.,book,hotel
+I may reserve the hotel room I want to stay in.,book,hotel
+That which I'm looking for is a motel room.,book,hotel
+Booking a hotel is on my mind.,book,hotel
+"If you could reserve a hotel room for me, that would be helpful.",book,hotel
+It's crucial to me that I reserve a hotel room.,book,hotel
+Can you assist me in locating a cheap hotel room?,book,hotel
+Can you assist me in locating a cheap hotel room?,book,hotel
+"Could you help me discover a good hotel deal, please?",book,hotel
+Where can I get a decent price on a hotel room?,book,hotel
+Can you recommend any excellent hotel deals?,book,hotel
+What do you suggest as a nice hotel room deal?,book,hotel
+Can you help me discover a decent deal on a hotel room?,book,hotel
+"During the coming week, I need to reserve a hotel room in Paris.",book,hotel
+I want to get a stay in a hotel close to the beach.,book,hotel
+I have to reserve a hotel room in Las Vegas for a conference.,book,hotel
+I wish to reserve a hotel room.,book,hotel
+I wish to reserve a hotel room with an Eiffel Tower view.,book,hotel
+I want to reserve a hotel room near a gym and a pool.,book,hotel
+Can you aid with my hotel reservation for my trip?,book,hotel
+I require lodging for two nights.,book,hotel
+Which hotel in the city is the best?,book,hotel
+Can you suggest a reputable hotel close to the beach?,book,hotel
+"For my honeymoon, I intend to reserve a posh hotel.",book,hotel
+Do you have any weekend hotel specials?,book,hotel
+My hotel reservation needs to be relocated.,book,hotel
+I have to modify the dates on my hotel reservation.,book,hotel
+"Next week, I need to make a hotel reservation.",book,hotel
+Please assist me in booking a hotel for my forthcoming vacation.,book,hotel
+I need to make a two-night hotel reservation.,book,hotel
+I'm trying to find a hotel close to the ocean.,book,hotel
+What choices do I have for hotels in this area?,book,hotel
+How do I use your service to make a hotel reservation?,book,hotel
+Are there any rooms left at your hotel for the upcoming weekend?,book,hotel
+"To reserve a suite for my honeymoon, please.",book,hotel
+Could you suggest a reputable hotel in the city center?,book,hotel
+I want to reserve a room in a hotel with a gym and a pool.,book,hotel
+"For my forthcoming holiday, I would adore to make hotel reservations!",book,hotel
+"This hotel looks fantastic, and I want to make a reservation immediately!",book,hotel
+"The recommendations for this hotel are fantastic, therefore I'm quite eager to make a reservation!",book,hotel
+This chatbot is incredible; making a hotel reservation has never been simpler!,book,hotel
+"The hotel's location is ideal, therefore I'm eager to reserve a room there!",book,hotel
+I like how simple it is for me to book a hotel with this chatbot!,book,hotel
+"I just booked my accommodation using this chatbot, and it was very easy! I can't wait to stay at this hotel!",book,hotel
+"Although making a hotel reservation might be very stressful, this chatbot has made my life so much simpler.",book,hotel
+I would definitely recommend using this chatbot to make hotel reservations.,book,hotel
+"Booking a hotel has never been easier thanks to this chatbot, which makes me very happy.",book,hotel
+I'm having a lot of trouble using this chatbot to make a hotel reservation; it's not functioning properly.,book,hotel
+Happy day! I'm eager and confident about making a hotel reservation for the coming week.,book,hotel
+"Hello, I'm doing fantastic and want to make a hotel reservation for the following week.",book,hotel
+Greetings! Booking a hotel for the following week makes me joyful.,book,hotel
+I'm feeling great and would like to make hotel reservations for the next week.,book,hotel
+"Hello, I'm in a great mood, and I want to book a hotel for the next week.",book,hotel
+Can you aid with my hotel reservation for a pending trip?,book,hotel
+"For my vacation, I want to book a room at a hotel.",book,hotel
+I wish to reserve a room at a hotel in the city.,book,hotel
+I need to secure lodging for my work travel the following week.,book,hotel
+Can you help me with a reservation?,book,hotel
+Can you help me make hotel reservations for my anniversary?,book,hotel
+I had to reserve a hotel room because I want to go on a weekend break.,book,hotel
+I'd want to book a room for two individuals at a hotel.,book,hotel
+Can you suggest a reputable hotel close to the airport?,book,hotel
+I want to reserve a boutique hotel for my next holiday.,book,hotel
+"For a conference I'll be attending, I need to reserve a hotel room.",book,hotel
+"Hello, could you help me reserve a hotel stay for the upcoming week?",book,hotel
+"Would it be possible to reserve a hotel room for the weekend, please?",book,hotel
+"If it's okay, may I make a hotel reservation for my impending trip?",book,hotel
+"Please excuse me, but could you help me make a hotel reservation for the upcoming month?",book,hotel
+"Hello, if it's not too much bother, I'd want to ask how to reserve a hotel room for my vacation later this month.",book,hotel
+"Hello, I was wondering if you could assist me with making a hotel reservation for my future trip.",book,hotel
+"Hello, would it be feasible for me to reserve a hotel room for my forthcoming trip?",book,hotel
+"If it's okay with you, excuse me, but I was hoping to reserve a hotel room for the following week.",book,hotel
+Please help me reserve a hotel room for my future vacation if you can.,book,hotel
+Good afternoon. I would like your help in making a hotel reservation for a vacation I have planned for next month.,book,hotel
+I must rent a vehicle.,book,Car
+What I need is to rent an automobile.,book,Car
+I must rent a vehicle.,book,Car
+"For me, rental cars are necessary.",book,Car
+Time to reserve a vehicle,book,Car
+"For me, renting a car is necessary.",book,Car
+I need to rent an automobile.,book,Car
+I must get a rental automobile immediately.,book,Car
+"For me, a rental car is necessary.",book,Car
+Rental cars are required.,book,Car
+"For me, a rental automobile would be helpful.",book,Car
+Hello! It's wonderful to talk to you. I'm thinking of making a rental car reservation.,book,Car
+Hello there! Happy to speak with you. I want to make a car rental reservation.,book,Car
+Hey! It's wonderful to talk to you. I wish to book a rental vehicle.,book,Car
+Hey! It's wonderful to talk to you. I wish to book a rental vehicle.,book,Car
+Hi! It's nice to talk to you. I would like to make a reservation for a car rental.,book,Car
+Good day! It's wonderful to interact with you. I want to make a reservation for a rental automobile.,book,Car
+"I can't wait to get out on a road vacation! Help me make a rental car reservation, please.",book,Car
+I appreciate your support. I was wondering if you could help me make a reservation for a car rental for my future vacation.,book,Car
+"I need to rent a car for a business trip, but I'm not sure where to begin. Please assist me with reserving a room.",book,Car
+Good day! I was considering renting.,book,Car
+Hey! It's a pleasure to speak with you. I need to book a rental automobile.,book,Car
+Hi! Good to talk to you. I would want to reserve a car rental as I plan to do so.,book,Car
+Hello there! Connecting with you is wonderful. I want to make a rental vehicle reservation.,book,Car
+I'm ecstatic to be organizing a road vacation! Please assist me with making a car rental reservation.,book,Car
+"I appreciate your assistance. For my forthcoming vacation, I need to hire a car, thus I was wondering if you could help me make a reservation.",book,Car
+I must rent a car for a business trip and don't know where to begin. Can you assist me with booking a reservation?,book,Car
+Hello there! I considered renting a,book,Car
+"Hello there! During the weekend, I considered getting a rental automobile. Would you be able to assist me with making one?",book,Car
+"Greetings! A automobile rental reservation is something I'm thinking about doing. I would appreciate further details about the procedure, if you could.",book,Car
+"For my forthcoming vacation, can you assist me obtain a rental car?",book,Car
+I'd want to lease a vehicle for the weekend.,book,Car
+Could you could assist me locate a rental automobile for my next business trip?,book,Car
+"For a trip with my family, I must rent a vehicle.",book,Car
+"For a cross-country drive, I need to hire a vehicle.",book,Car
+"For my vacation, can you assist me hire a car?",book,Car
+An automatic gearbox and GPS are required in my vehicle.,book,Car
+which is the top automobile rental agency in,book,Car
+To schedule a flight,book,Flight
+I wish to make a flight reservation.,book,Flight
+To schedule a flight,book,Flight
+Booking a flight is what I need.,book,Flight
+I think it would be nice to book a flight.,book,Flight
+It would be wonderful if you could arrange for my flight.,book,Flight
+One thing I'd want to do is fly.,book,Flight
+I wish to make a flight reservation.,book,Flight
+Booking flights is something I'm interested in doing.,book,Flight
+There is space on the flight I wish to reserve.,book,Flight
+"Next month, I need to purchase a ticket from New York to London.",book,Flight
+Please assist me in booking a trip to Tokyo in July.,book,Flight
+I must make a flight reservation because I'm arranging a vacation to Europe.,book,Flight
+Please assist me in booking a trip to Australia for September.,book,Flight
+"For my honeymoon, can you assist me get a flight to South America?",book,Flight
+Could you assist me in finding a flight for my trip?,book,Flight
+"I need a plane ticket to New York, one way.",book,Flight
+Which airline is best for international travel?,book,Flight
+Can you suggest a suitable flight for a traveler on a tight budget?,book,Flight
+"For my business trip, I want to reserve a first-class ticket.",book,Flight
+Do you have any specials on Hawaii flights?,book,Flight
+My flight reservation needs to have the destination changed.,book,Flight
+I have to alter the dates on my reservation for a flight.,book,Flight
+I'm searching for vacation packages.,book,Package
+Trying to find a vacation package,book,Package
+To discover a vacation package that meets my needs is what I'm aiming for.,book,Package
+I'm looking for vacation package deals.,book,Package
+"For me, a package trip would be excellent.",book,Package
+Are you considering vacation packages?,book,Package
+Vacation is the package I'm looking for.,book,Package
+I'm looking for vacation package deals.,book,Package
+I'm looking for a vacation package.,book,Package
+Considering a holiday package,book,Package
+I'm looking for a travel package.,book,Package
+What choices do I have for Hawaii holiday packages?,book,Package
+I'm looking for a trip package that includes lodging and transportation.,book,Package
+"I want to reserve a package that includes travel, lodging, and sightseeing.",book,Package
+A vacation package with a cruise would be appealing to me.,book,Package
+I'm looking for a holiday package with relaxation and spa services.,book,Package
+Can you aid me in making a trip arrangement?,book,Package
+"I require a package that covers lodging, transportation, and travel.",book,Package
+What is the ideal vacation package for a family?,book,Package
+Can you suggest a decent vacation package for a couple's getaway?,book,Package
+I'd want to reserve a lavish vacation package for my anniversary.,book,Package
+Do you have any offers on Europe vacation packages?,book,Package
+My reservation for a travel package has to be relocated.,book,Package
+My travel package reservation needs to have its dates changed.,book,Package
+I need to rent a car for next weekend.,book,car
+Can you help me reserve a rental car for my trip to Boston?,book,car
+I'm interested in booking a car for a week-long vacation in Hawaii.,book,car
+I'd like to rent a car for a one-way trip from New York City to Washington D.C.,book,car
+How much does it cost to rent a car for a day?,book,car
+Do you have any economy cars available for rental?,book,car
+I want to book a car for a road trip with my friends next month.,book,car
+Can you recommend a good car rental company?,book,car
+What's the process for renting a car at the airport?,book,car
+Is it possible to rent a car without a credit card?,book,car
+I am happy to book a car for next week!,book,car
+Buy package,book,Package
+I want package,book,Package
+Book hotel,book,hotel
+I want to book hotel! I am so happy!,book,hotel
+I would like to book package.,book,Package
